@@ -13,7 +13,10 @@
   color: black;
   cursor: pointer;
   padding: 5px;
+  transition: background-color 0.5s ease, color 0.5s linear,
+    transform 0.5s ease-out;
 }
 .link:hover {
   color: crimson;
+  transform: scale(1.2);
 }
