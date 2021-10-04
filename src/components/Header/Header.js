@@ -24,7 +24,7 @@ const Header = () => {
       <Container>
         <Navbar.Brand to="/home">GoAbroadEdu</Navbar.Brand>
         <Nav className="">
-          <Nav.Link>
+          <Nav.Link className="link">
             <Link to="/home">Home</Link>
           </Nav.Link>
           <Nav.Link to="/services">Services</Nav.Link>
