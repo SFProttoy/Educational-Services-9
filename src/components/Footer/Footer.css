@@ -1,0 +1,14 @@
+.footer {
+  background-color: rgb(235, 220, 220);
+  height: 200px;
+  margin-top: 100px;
+  border-top-left-radius: 30px;
+  border-top-right-radius: 30px;
+}
+.sections {
+  margin-top: 70px;
+}
+.icons {
+  margin-right: 20px;
+  font-size: 25px;
+}

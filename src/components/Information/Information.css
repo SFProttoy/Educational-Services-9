@@ -1,0 +1,19 @@
+.info {
+  margin: 50px 0;
+}
+.info-header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.courses {
+  color: crimson;
+}
+.card-data {
+  height: 500px;
+}
+
+.description {
+  text-align: justify;
+  font-size: 15px;
+  font-weight: 500;
+}
