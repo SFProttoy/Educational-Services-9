@@ -10,6 +10,9 @@
 }
 .card-data {
   height: 500px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  box-shadow: 20px 15px 18px grey;
 }
 
 .description {

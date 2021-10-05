@@ -9,4 +9,11 @@
 }
 .contact-btn {
   margin: 30px;
+  width: 180px;
+  border-radius: 30px;
+  transition: 0.7s;
+}
+
+.contact-btn:hover {
+  background: #c0392b;
 }

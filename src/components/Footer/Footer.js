@@ -18,12 +18,12 @@ const Footer = () => {
   return (
     <div className="container footer">
       <div className="row">
-        <div className="col-md-6 sections">
+        <div className="col-md-6 footer-sections">
           <h2>Contact us:</h2>
           <h4>Phone: +88-0155555555</h4>
-          <h5>Email: abd05@edu.com</h5>
+          <h5>Email: abd05@gmail.com</h5>
         </div>
-        <div className="col-md-6 sections">
+        <div className="col-md-6 footer-sections">
           <h2>Connect with us via:</h2>
           <span className="icons">{fb}</span>
           <span className="icons">{yt}</span>
@@ -31,6 +31,8 @@ const Footer = () => {
           <span className="icons">{ig}</span>
         </div>
       </div>
+      <hr className="mx-auto hr" />
+      <span className="fw-bold">Copyright &copy; 2021 - SFP</span>
     </div>
   );
 };

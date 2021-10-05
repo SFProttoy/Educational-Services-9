@@ -5,6 +5,10 @@
   color: crimson;
   font-size: 50px;
 }
+.edu-name:hover {
+  animation: heartBeat;
+  animation-duration: 3s;
+}
 .link {
   text-decoration: none;
   margin-right: 30px;

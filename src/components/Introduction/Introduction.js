@@ -2,6 +2,7 @@ import React from "react";
 import { Button, Image } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import "./Introduction.css";
+
 const Introduction = () => {
   return (
     <div className="container">
@@ -9,7 +10,7 @@ const Introduction = () => {
         <div className="col-md-6">
           <h2>
             Want To Get Admitted In <br />
-            <span className="top-school">Top Schools in the World?</span>
+            <span className="top-school">Top Schools in the World ?</span>
           </h2>
           <Link to="/about">
             <Button className="contact-btn">Know about us</Button>

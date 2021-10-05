@@ -25,11 +25,11 @@
   },
   {
     "id": 4,
-    "img": "https://ath2.unileverservices.com/wp-content/uploads/sites/3/2017/10/young-men-haircuts-layered-gelled-min.jpg",
+    "img": "https://i.ibb.co/vLZp450/man1.jpg",
     "name": "William Hamilton",
     "expertise": "Quantitative, Verbal",
-    "scores": "GMAT 710",
-    "experience": "3+ years"
+    "scores": "GMAT 730",
+    "experience": "4+ years"
   },
   {
     "id": 5,
@@ -65,10 +65,10 @@
   },
   {
     "id": 9,
-    "img": "https://history.ucsd.edu/_images/people/faculty/Man-headshot-2.jpg",
+    "img": "https://i.ibb.co/drMHzxL/man2.jpg",
     "name": "Shaun Steve",
     "expertise": "Quantitative",
-    "scores": "GMAT 700",
+    "scores": "GMAT 710",
     "experience": "3+ years"
   }
 ]

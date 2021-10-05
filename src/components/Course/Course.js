@@ -10,16 +10,20 @@ const Course = (props) => {
         <Card.Img variant="top" src={img} />
         <Card.Body>
           <Card.Title>
-            Name: <span className="info">{name}</span>
+            <span className="fw-bold">Name: </span>
+            <span className="info">{name}</span>
           </Card.Title>
           <h5>
-            Outline: <span className="info">{outline}</span>
+            <span className="fw-bold">Outline: </span>
+            <span className="info">{outline}</span>
           </h5>
           <h5>
-            Price: <span className="info">{price}</span>
+            <span className="fw-bold">Price: </span>
+            <span className="info">Tk. {price}</span>
           </h5>
           <h5>
-            Duration: <span className="info">{duration}</span>
+            <span className="fw-bold">Duration: </span>
+            <span className="info">{duration}</span>
           </h5>
         </Card.Body>
       </Card>

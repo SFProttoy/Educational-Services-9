@@ -1,0 +1,10 @@
+.see-btn {
+  margin-top: 50px;
+  width: 150px;
+  border-radius: 30px;
+  transition: 0.7s;
+}
+
+.see-btn:hover {
+  background: #c0392b;
+}
